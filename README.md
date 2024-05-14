@@ -4,5 +4,7 @@ A permissão engloba desde os perfis, quanto o controle de acesso a funcionalida
 
 # Tecnologia
 - monorepo
+- nextjs
+- CASL (javascript library)
 
 # Descrição
